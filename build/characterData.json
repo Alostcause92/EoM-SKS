@@ -2,16 +2,16 @@
   {
     "id": 1,
     "position": 1,
-    "character": "[Àrwén](https://db.rising-gods.de/?profile=eu.rising-gods.)",
+    "character": "[Àrwén](https://db.rising-gods.de/?profile=eu.rising-gods.Àrwén)",
     "main": "Affli",
-    "alt": "[Eovîn](https://db.rising-gods.de/?profile=eu.rising-gods.) (Affli)",
+    "alt": "[Eovîn](https://db.rising-gods.de/?profile=eu.rising-gods.Eovîn) (Affli)",
     "present": "Ja",
     "item": "Nein"
   },
   {
     "id": 2,
     "position": 2,
-    "character": "[Háágl](https://db.rising-gods.de/?profile=eu.rising-gods.)",
+    "character": "[Háágl](https://db.rising-gods.de/?profile=eu.rising-gods.Háágl)",
     "main": "UH/Tank; rollt UH",
     "alt": "-",
     "present": "Nein",
@@ -20,7 +20,7 @@
   {
     "id": 3,
     "position": 3,
-    "character": "[Merveille](https://db.rising-gods.de/?profile=eu.rising-gods.)",
+    "character": "[Merveille](https://db.rising-gods.de/?profile=eu.rising-gods.Merveille)",
     "main": "Treffsicherheit",
     "alt": "-",
     "present": "Nein",
@@ -29,7 +29,7 @@
   {
     "id": 4,
     "position": 4,
-    "character": "[Graugdasch](https://db.rising-gods.de/?profile=eu.rising-gods.)",
+    "character": "[Graugdasch](https://db.rising-gods.de/?profile=eu.rising-gods.Graugdasch)",
     "main": "Resto/VS; rollt Resto",
     "alt": "-",
     "present": "Nein",
@@ -38,7 +38,7 @@
   {
     "id": 5,
     "position": 5,
-    "character": "[Smokesitall](https://db.rising-gods.de/?profile=eu.rising-gods.)",
+    "character": "[Smokesitall](https://db.rising-gods.de/?profile=eu.rising-gods.Smokesitall)",
     "main": "Fury",
     "alt": "-",
     "present": "Nein",
@@ -47,7 +47,7 @@
   {
     "id": 6,
     "position": 6,
-    "character": "[Outbreak](https://db.rising-gods.de/?profile=eu.rising-gods.)",
+    "character": "[Outbreak](https://db.rising-gods.de/?profile=eu.rising-gods.Outbreak)",
     "main": "SP",
     "alt": "-",
     "present": "Ja",
@@ -56,7 +56,7 @@
   {
     "id": 7,
     "position": 7,
-    "character": "[Multiboy](https://db.rising-gods.de/?profile=eu.rising-gods.)",
+    "character": "[Multiboy](https://db.rising-gods.de/?profile=eu.rising-gods.Multiboy)",
     "main": "Combat",
     "alt": "-",
     "present": "Nein",
@@ -65,7 +65,7 @@
   {
     "id": 8,
     "position": 8,
-    "character": "[Mchaesslich](https://db.rising-gods.de/?profile=eu.rising-gods.)",
+    "character": "[Mchaesslich](https://db.rising-gods.de/?profile=eu.rising-gods.Mchaesslich)",
     "main": "Combat",
     "alt": "-",
     "present": "Nein",
@@ -74,36 +74,36 @@
   {
     "id": 9,
     "position": 9,
-    "character": "[Faedrak](https://db.rising-gods.de/?profile=eu.rising-gods.)",
+    "character": "[Faedrak](https://db.rising-gods.de/?profile=eu.rising-gods.Faedrak)",
     "main": "Fury (1. SM Splitter)",
-    "alt": "[Phytha](https://db.rising-gods.de/?profile=eu.rising-gods.) (Resto), [Corani](https://db.rising-gods.de/?profile=eu.rising-gods.) (Dämo), [Senjera](https://db.rising-gods.de/?profile=eu.rising-gods.) (SP), [Saivez](https://db.rising-gods.de/?profile=eu.rising-gods.) (HPala)",
+    "alt": "[Phytha](https://db.rising-gods.de/?profile=eu.rising-gods.Phytha) (Resto), [Corani](https://db.rising-gods.de/?profile=eu.rising-gods.Corani) (Dämo), [Senjera](https://db.rising-gods.de/?profile=eu.rising-gods.Senjera) (SP), [Saivez](https://db.rising-gods.de/?profile=eu.rising-gods.) (HPala)",
     "present": "Nein",
     "item": "Nein"
   },
   {
     "id": 10,
     "position": 10,
-    "character": "[Hiería](https://db.rising-gods.de/?profile=eu.rising-gods.)",
+    "character": "[Hiería](https://db.rising-gods.de/?profile=eu.rising-gods.Hiería)",
     "main": "Eule",
-    "alt": "[Fresa](https://db.rising-gods.de/?profile=eu.rising-gods.) (Ele)",
+    "alt": "[Fresa](https://db.rising-gods.de/?profile=eu.rising-gods.Fresa) (Ele)",
     "present": "Nein",
     "item": "Nein"
   },
   {
     "id": 11,
     "position": 11,
-    "character": "[Chrisson](https://db.rising-gods.de/?profile=eu.rising-gods.)",
+    "character": "[Chrisson](https://db.rising-gods.de/?profile=eu.rising-gods.Chrisson)",
     "main": "Pala Tank/Hpala; rollt Tank",
-    "alt": "[Könnteheilen](https://db.rising-gods.de/?profile=eu.rising-gods.) (SP)",
+    "alt": "[Könnteheilen](https://db.rising-gods.de/?profile=eu.rising-gods.Könnteheilen) (SP)",
     "present": "Nein",
     "item": "Nein"
   },
   {
     "id": 12,
     "position": 12,
-    "character": "[Moophie](https://db.rising-gods.de/?profile=eu.rising-gods.)",
+    "character": "[Moophie](https://db.rising-gods.de/?profile=eu.rising-gods.Moophie)",
     "main": "Baum/Eule; rollt Baum",
-    "alt": "[Shieldow](https://db.rising-gods.de/?profile=eu.rising-gods.) (Diszi/SP; rollt SP)",
+    "alt": "[Shieldow](https://db.rising-gods.de/?profile=eu.rising-gods.Shieldow) (Diszi/SP; rollt SP)",
     "present": "Nein",
     "item": "Nein"
   },
