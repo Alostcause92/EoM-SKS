@@ -1,74 +1,236 @@
 [
   {
-    "id": 2,
-    "position": 2,
-    "character": "Eovîn",
-    "main": "Affli",
-    "alt": "-",
-    "present": "Nein",
-    "item": "Ja"
-  },
-  {
     "id": 1,
     "position": 1,
-    "character": "Haagl",
-    "main": "UH/Tank",
-    "alt": "-",
-    "present": "Ja",
-    "item": "1x Item"
-  },
-  {
-    "id": 3,
-    "position": 3,
-    "character": "Sunny",
-    "main": "Treffsicherheit",
-    "alt": "-",
+    "character": "[Àrwén](https://db.rising-gods.de/?profile=eu.rising-gods.)",
+    "main": "Affli",
+    "alt": "[Eovîn](https://db.rising-gods.de/?profile=eu.rising-gods.) (Affli)",
     "present": "Ja",
     "item": "Nein"
   },
   {
-    "id": 4,
-    "position": 5,
-    "character": "Graugdasch",
-    "main": "Resto",
+    "id": 2,
+    "position": 2,
+    "character": "[Háágl](https://db.rising-gods.de/?profile=eu.rising-gods.)",
+    "main": "UH/Tank; rollt UH",
     "alt": "-",
-    "present": "Ja",
+    "present": "Nein",
+    "item": "Nein"
+  },
+  {
+    "id": 3,
+    "position": 3,
+    "character": "[Merveille](https://db.rising-gods.de/?profile=eu.rising-gods.)",
+    "main": "Treffsicherheit",
+    "alt": "-",
+    "present": "Nein",
+    "item": "Nein"
+  },
+  {
+    "id": 4,
+    "position": 4,
+    "character": "[Graugdasch](https://db.rising-gods.de/?profile=eu.rising-gods.)",
+    "main": "Resto/VS; rollt Resto",
+    "alt": "-",
+    "present": "Nein",
+    "item": "Nein"
+  },
+  {
+    "id": 5,
+    "position": 5,
+    "character": "[Smokesitall](https://db.rising-gods.de/?profile=eu.rising-gods.)",
+    "main": "Fury",
+    "alt": "-",
+    "present": "Nein",
     "item": "Nein"
   },
   {
     "id": 6,
     "position": 6,
-    "character": "Smokesitall",
-    "main": "Fury",
+    "character": "[Outbreak](https://db.rising-gods.de/?profile=eu.rising-gods.)",
+    "main": "SP",
     "alt": "-",
     "present": "Ja",
     "item": "Nein"
   },
   {
-    "id": 5,
+    "id": 7,
     "position": 7,
-    "character": "Outbreak",
-    "main": "SP",
-    "alt": "Alt C",
-    "present": "Ja",
+    "character": "[Multiboy](https://db.rising-gods.de/?profile=eu.rising-gods.)",
+    "main": "Combat",
+    "alt": "-",
+    "present": "Nein",
     "item": "Nein"
   },
   {
     "id": 8,
     "position": 8,
-    "character": "Multiboy",
+    "character": "[Mchaesslich](https://db.rising-gods.de/?profile=eu.rising-gods.)",
     "main": "Combat",
-    "alt": "Alt C",
-    "present": "Ja",
+    "alt": "-",
+    "present": "Nein",
     "item": "Nein"
   },
   {
     "id": 9,
     "position": 9,
-    "character": "Mchaesslich",
-    "main": "Combat",
-    "alt": "-",
+    "character": "[Faedrak](https://db.rising-gods.de/?profile=eu.rising-gods.)",
+    "main": "Fury (1. SM Splitter)",
+    "alt": "[Phytha](https://db.rising-gods.de/?profile=eu.rising-gods.) (Resto), [Corani](https://db.rising-gods.de/?profile=eu.rising-gods.) (Dämo), [Senjera](https://db.rising-gods.de/?profile=eu.rising-gods.) (SP), [Saivez](https://db.rising-gods.de/?profile=eu.rising-gods.) (HPala)",
+    "present": "Nein",
+    "item": "Nein"
+  },
+  {
+    "id": 10,
+    "position": 10,
+    "character": "[Hiería](https://db.rising-gods.de/?profile=eu.rising-gods.)",
+    "main": "Eule",
+    "alt": "[Fresa](https://db.rising-gods.de/?profile=eu.rising-gods.) (Ele)",
+    "present": "Nein",
+    "item": "Nein"
+  },
+  {
+    "id": 11,
+    "position": 11,
+    "character": "[Chrisson](https://db.rising-gods.de/?profile=eu.rising-gods.)",
+    "main": "Pala Tank/Hpala; rollt Tank",
+    "alt": "[Könnteheilen](https://db.rising-gods.de/?profile=eu.rising-gods.) (SP)",
+    "present": "Nein",
+    "item": "Nein"
+  },
+  {
+    "id": 12,
+    "position": 12,
+    "character": "[Moophie](https://db.rising-gods.de/?profile=eu.rising-gods.)",
+    "main": "Baum/Eule; rollt Baum",
+    "alt": "[Shieldow](https://db.rising-gods.de/?profile=eu.rising-gods.) (Diszi/SP; rollt SP)",
+    "present": "Nein",
+    "item": "Nein"
+  },
+  {
+    "id": 13,
+    "position": 13,
+    "character": "[Alabuu](https://db.rising-gods.de/?profile=eu.rising-gods.Alabuu)",
+    "main": "Dämo",
+    "alt": "[Alibär](https://db.rising-gods.de/?profile=eu.rising-gods.Alibär) (UH)",
+    "present": "Nein",
+    "item": "Nein"
+  },
+  {
+    "id": 14,
+    "position": 14,
+    "character": "[Patrota](https://db.rising-gods.de/?profile=eu.rising-gods.patrota)",
+    "main": "Fmage",
+    "alt": "[Batna](https://db.rising-gods.de/?profile=eu.rising-gods.Batna) (SP), [Amizo](https://db.rising-gods.de/?profile=eu.rising-gods.Amizo) (UH)",
     "present": "Ja",
+    "item": "Nein"
+  },
+  {
+    "id": 15,
+    "position": 15,
+    "character": "[Dopehealz](https://db.rising-gods.de/?profile=eu.rising-gods.Dopehealz)",
+    "main": "Resto",
+    "alt": "[Nvm](https://db.rising-gods.de/?profile=eu.rising-gods.Nvm) (Fmage)",
+    "present": "Ja",
+    "item": "Nein"
+  },
+  {
+    "id": 16,
+    "position": 16,
+    "character": "[Chrønøs](https://db.rising-gods.de/?profile=eu.rising-gods.Chrønøs)",
+    "main": "Eule/Bär; rollt Eule",
+    "alt": "[Karkaroff](https://db.rising-gods.de/?profile=eu.rising-gods.Karkaroff) (Ele/Resto; rollt Ele)",
+    "present": "Ja",
+    "item": "Nein"
+  },
+  {
+    "id": 17,
+    "position": 17,
+    "character": "[Flereigam](https://db.rising-gods.de/?profile=eu.rising-gods.Flereigam)",
+    "main": "Fmage",
+    "alt": "[Blinkeydk](https://db.rising-gods.de/?profile=eu.rising-gods.Blinkeydk) (UH; 2. SM Splitter)",
+    "present": "Nein",
+    "item": "Nein"
+  },
+  {
+    "id": 18,
+    "position": 18,
+    "character": "[Babsy](https://db.rising-gods.de/?profile=eu.rising-gods.Babsy)",
+    "main": "Retri",
+    "alt": "[Voodooerika](https://db.rising-gods.de/?profile=eu.rising-gods.Voodooerika) (SP)",
+    "present": "Nein",
+    "item": "Nein"
+  },
+  {
+    "id": 19,
+    "position": 19,
+    "character": "[Freetag](https://db.rising-gods.de/?profile=eu.rising-gods.Freetag)",
+    "main": "Blut Tank/FDK; rollt Tank (3. SM Splitter)",
+    "alt": "[Dingstag](https://db.rising-gods.de/?profile=eu.rising-gods.Dingstag) (Pala Tank; 4. SM Splitter); alles außer [Vingardium](https://db.rising-gods.de/?profile=eu.rising-gods.Vingardium), [Diensthund](https://db.rising-gods.de/?profile=eu.rising-gods.Diensthund) & [Suntag](https://db.rising-gods.de/?profile=eu.rising-gods.Suntag)",
+    "present": "Nein",
+    "item": "Nein"
+  },
+  {
+    "id": 20,
+    "position": 20,
+    "character": "[Burning](https://db.rising-gods.de/?profile=eu.rising-gods.Burning)",
+    "main": "Cat",
+    "alt": "[Meldojin](https://db.rising-gods.de/?profile=eu.rising-gods.Meldojin) (SP), [Dörlilili](https://db.rising-gods.de/?profile=eu.rising-gods.Dörlilili) (Blut DK)",
+    "present": "Nein",
+    "item": "Nein"
+  },
+  {
+    "id": 21,
+    "position": 21,
+    "character": "[Beautý](https://db.rising-gods.de/?profile=eu.rising-gods.Beautý)",
+    "main": "SP/Diszi; rollt SP",
+    "alt": "[Lágêrthá](https://db.rising-gods.de/?profile=eu.rising-gods.Lágêrthá) (UH), [Snîckêrs](https://db.rising-gods.de/?profile=eu.rising-gods.Snîckêrs) (Ele/Resto; rollt Ele), [Liebstê](https://db.rising-gods.de/?profile=eu.rising-gods.Liebstê) (Eule)",
+    "present": "Ja",
+    "item": "Nein"
+  },
+  {
+    "id": 22,
+    "position": 22,
+    "character": "[Firmware](https://db.rising-gods.de/?profile=eu.rising-gods.Firmware)",
+    "main": "Eule/Baum; rollt Eule",
+    "alt": "[Debugmode](https://db.rising-gods.de/?profile=eu.rising-gods.Debugmode) (Resto/Ele), [Lòcknar](https://db.rising-gods.de/?profile=eu.rising-gods.Lòcknar) (Warri Tank/Fury)",
+    "present": "Nein",
+    "item": "Nein"
+  },
+  {
+    "id": 23,
+    "position": 23,
+    "character": "[Golreg](https://db.rising-gods.de/?profile=eu.rising-gods.Golreg)",
+    "main": "Affli/Dämo; rollt Affli",
+    "alt": "[Varosh](https://db.rising-gods.de/?profile=eu.rising-gods.Varosh) (Hpala/Tank), [Gerlog](https://db.rising-gods.de/?profile=eu.rising-gods.Gerlog) (Resto/Ele)",
+    "present": "Nein",
+    "item": "Nein"
+  },
+  {
+    "id": 24,
+    "position": 24,
+    "character": "[Sélkét](https://db.rising-gods.de/?profile=eu.rising-gods.Sélkét)",
+    "main": "Retri (2. SM Splitter)",
+    "alt": "[Zadrazil](https://db.rising-gods.de/?profile=eu.rising-gods.Zadrazil) (Fury), [Asmódäus](https://db.rising-gods.de/?profile=eu.rising-gods.Asmódäus) (SP), [Morfydd](https://db.rising-gods.de/?profile=eu.rising-gods.Morfydd) (Dämo)",
+    "present": "Nein",
+    "item": "Nein"
+  },
+  {
+    "id": 25,
+    "position": 25,
+    "character": "[Shadowdevíl](https://db.rising-gods.de/?profile=eu.rising-gods.Shadowdevíl)",
+    "main": "Fury",
+    "alt": "-",
+    "present": "Nein",
+    "item": "Nein"
+  },
+  {
+    "id": 26,
+    "position": 26,
+    "character": "[Solédad](https://db.rising-gods.de/?profile=eu.rising-gods.Solédad)",
+    "main": "Diszi/SP, rollt Diszi",
+    "alt": "-",
+    "present": "Nein",
     "item": "Nein"
   }
 ]
